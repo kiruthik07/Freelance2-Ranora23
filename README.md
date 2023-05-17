@@ -9,10 +9,10 @@ The website is available at: https://ranora23.netlify.app/
 The website provides information about the Symposium event and includes the following features:
 
 <ul>
-    <li>Event schedule</li>
+    <li>Events information</li>
     <li>Guest profiles</li>
     <li>Registration form</li>
-    <li>Contact link</li>
+    <li>Contact details</li>
     <li>Venue information</li>
 </ul>
 
